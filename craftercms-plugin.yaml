@@ -1,0 +1,58 @@
+# This file describes a plugin for use in Crafter CMS
+
+# The version of the format for this file
+descriptorVersion: 2
+
+# Describe the plugin
+plugin:
+  type: blueprint
+  id: digital.kingsway.crafter.commonSiteFoundation
+  name: Common Site Foundation
+  tags:
+    - blueprint
+    - website
+    - microsite
+    - landingpage
+    - standard content types
+    - default template
+    - graphql
+    - headless
+    - server-side render
+  version:
+    major: 1
+    minor: 0
+    patch: 0
+  description: Common Site Foundation is a quickstart general-purpose site for Crafter. It provides standard content types that every website needs, along with a simple template that renders them in a Bootstrap layout. Use this to start content entry immediately, while developing your own bespoke templates in parallel. Alternately, go live with the samples and morph them as needed.  Designed for traditional "headed" or headless delivery.  Current types include image, video, document, article, blog, landing page, press release, photo gallery, carousel, and many more web-friendly widgets.  See included README for details.
+  website:
+    name: Common Site Foundation for Crafter CMS
+    url: https://github.com/kingsway-digital/crafter-common-site-foundation
+  media:
+    screenshots:
+      - title: Home Page
+        description: Screenshot of the homepage
+        url: https://raw.githubusercontent.com/kingsway-digital/crafter-common-site-foundation/master/static-assets/craftercms-plugin/screenshots/home.png
+      - title: Info Cards Section
+        description: View of the info cards section, viewed within Crafter CMS with page builder options
+        url: https://raw.githubusercontent.com/kingsway-digital/crafter-common-site-foundation/master/static-assets/craftercms-plugin/screenshots/info-cards.png
+  developer:
+    company:
+      name: The Kingsway Digital Company
+      email: info@kingsway.digital
+      url: https://kingsway.digital/
+  build:
+    id: c3d2a5444e6a24b5e0481d6ba87901d0b02716c8
+    date: 2019-01-23T00:00:00Z
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+  crafterCmsVersions:
+    - major: 3
+      minor: 1
+      patch: 4
+    - major: 3
+      minor: 1
+      patch: 5
+  crafterCmsEditions:
+    - community
+    - enterprise
+  searchEngine: Elasticsearch

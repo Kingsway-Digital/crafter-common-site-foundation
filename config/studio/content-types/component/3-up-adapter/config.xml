@@ -1,0 +1,13 @@
+<content-type name="/component/3upadapter" is-wcm-type="true">
+	<label>3-up Adapter</label>
+	<form>/component/3-up-adapter</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<quickCreate>true</quickCreate>
+	<quickCreatePath>/site/components/web/adapters/3-up</quickCreatePath>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
+</content-type>

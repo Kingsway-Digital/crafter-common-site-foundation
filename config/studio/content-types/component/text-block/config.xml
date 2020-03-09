@@ -1,0 +1,13 @@
+<content-type name="/component/textblock" is-wcm-type="true">
+	<label>Text Block</label>
+	<form>/component/text-block</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<quickCreate>true</quickCreate>
+	<quickCreatePath>/site/components/web/modules/text-block</quickCreatePath>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
+</content-type>

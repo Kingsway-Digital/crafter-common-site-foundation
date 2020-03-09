@@ -1,0 +1,13 @@
+<content-type name="/component/pressrelease" is-wcm-type="true">
+	<label>Press Release</label>
+	<form>/component/press-release</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>false</content-as-folder>
+	<previewable>false</previewable>
+	<quickCreate>true</quickCreate>
+	<quickCreatePath>/site/components/content/press-releases/{year}/</quickCreatePath>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
+</content-type>
