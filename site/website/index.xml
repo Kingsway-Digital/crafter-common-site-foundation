@@ -1,40 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-   <content-type>/page/landing-page</content-type>
-   <display-template>/templates/web/pages/landingpage.ftl</display-template>
-   <no-template-required />
-   <merge-strategy>inherit-levels</merge-strategy>
-   <objectGroupId>8d7f</objectGroupId>
-   <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-   <file-name>index.xml</file-name>
-   <internal-name>Home</internal-name>
-   <title_s>Common Site Foundation</title_s>
-   <placeInNav>false</placeInNav>
-   <orderDefault_f>-1</orderDefault_f>
-   <metadescription_t>Initial content for metadescription of Common Site Foundation</metadescription_t>
-   <keywords_o item-list="true">
-      <item>
-         <keyword_s>foundation</keyword_s>
-      </item>
-      <item>
-         <keyword_s>common site foundation</keyword_s>
-      </item>
-      <item>
-         <keyword_s>landing page</keyword_s>
-      </item>
-      <item>
-         <keyword_s>kingsway digital</keyword_s>
-      </item>
-      <item>
-         <keyword_s>sections</keyword_s>
-      </item>
-      <item>
-         <keyword_s>responsive</keyword_s>
-      </item>
-   </keywords_o>
-   <createdDate>2020-01-14T23:48:14.728Z</createdDate>
-   <createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-   <lastModifiedDate>2020-02-28T21:42:41.569Z</lastModifiedDate>
-   <lastModifiedDate_dt>2020-02-28T21:42:41.569Z</lastModifiedDate_dt>
-   <folder-name />
+	<content-type>/page/landing-page</content-type>
+	<display-template>/templates/web/pages/landingpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<title_s>Common Site Foundation</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<metadescription_t>Initial content for metadescription of Common Site Foundation</metadescription_t>
+	<keywords_o item-list="true">	<item>	<keyword_s>foundation</keyword_s>
+	</item>	<item>	<keyword_s>common site foundation</keyword_s>
+	</item>	<item>	<keyword_s>landing page</keyword_s>
+	</item>	<item>	<keyword_s>kingsway digital</keyword_s>
+	</item>	<item>	<keyword_s>sections</keyword_s>
+	</item>	<item>	<keyword_s>responsive</keyword_s>
+	</item></keywords_o>
+	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
+	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
+	<lastModifiedDate>2020-03-09T19:28:32.698Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-09T19:28:32.698Z</lastModifiedDate_dt>
+	<folder-name/>
+	<sections_o item-list="true"/>
 </page>
