@@ -7,14 +7,14 @@
         </header>
     </#if>
     <#if model.slots_o?has_content>
-        <div>
+        <div class="row">
         <#list model.slots_o.item as item>
-            <div>
+            <div class="col">
                 <#if item.slot1_o.item?has_content >
                     <@renderComponent component=item.slot1_o.item />
                 </#if>
             </div>
-            <div>
+            <div class="col">
                 <#if item.slot2_o.item?has_content >
                     <@renderComponent component=item.slot2_o.item />
                 </#if>

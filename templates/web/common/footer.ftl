@@ -1,1 +1,1 @@
-<div>Footer coming soon</div>
+        <!-- footer coming soon -->
