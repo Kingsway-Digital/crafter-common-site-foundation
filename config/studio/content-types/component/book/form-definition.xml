@@ -241,7 +241,7 @@
                 </field>
                 <field>
                     <type>input</type>
-                    <id>order_link_s</id>
+                    <id>orderLink_s</id>
                     <iceId>content</iceId>
                     <title>Order Link</title>
                     <description></description>
@@ -284,7 +284,7 @@
                 </field>
                 <field>
                     <type>input</type>
-                    <id>listen_link_s</id>
+                    <id>listenLink_s</id>
                     <iceId>content</iceId>
                     <title>Listen Link</title>
                     <description></description>

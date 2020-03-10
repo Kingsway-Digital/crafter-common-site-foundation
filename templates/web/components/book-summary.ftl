@@ -7,12 +7,12 @@
     </#if>
     <#if model.order_link_s??>
         <div>
-            <a target="_blank" rel="noreferrer noopener" href="${model.order_link_s}">Order Now</a>
+            <a target="_blank" rel="noreferrer noopener" href="${model.orderLink_s}">Order Now</a>
         </div>
     </#if>
     <#if model.listen_link_s??>
         <div>
-            <a target="_blank" rel="noreferrer noopener" href="${model.listen_link_s}">Listen Now</a>
+            <a target="_blank" rel="noreferrer noopener" href="${model.listenLink_s}">Listen Now</a>
         </div>
     </#if>
     <#-- Reviews coming soon -->
