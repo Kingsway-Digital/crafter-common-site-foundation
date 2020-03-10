@@ -1,1 +1,1 @@
-        <!-- footer coming soon -->
+        <div class="copyright">${model.copyright_s}</div>

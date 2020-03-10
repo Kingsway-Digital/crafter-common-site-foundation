@@ -4,7 +4,8 @@
     <meta name="author" content="Tony Field">
     <meta name="docsearch:language" content="en">
     <meta name="keyword" content="<#if model.keywords_o?has_content && model.keywords_o.item??><#list model.keywords_o.item as kw>${kw.keyword_s}<#if kw?has_next>, </#if></#list></#if>">
-    <title>${model.title_s}</title>
+    <title>${model.title_s} | ${model.siteName_s}</title>
+
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
@@ -21,13 +22,13 @@
     <meta name="twitter:card" content="coming-soonsummary_large_image">
     <meta name="twitter:site" content="@coming-soon">
     <meta name="twitter:creator" content="@coming-soon">
-    <meta name="twitter:title" content="${model.title_s}">
+    <meta name="twitter:title" content="${model.title_s} | ${model.siteName_s}">
     <meta name="twitter:description" content="${model.metadescription_t}">
     <meta name="twitter:image" content="/coming-soon/bootstrap-social.png">
 
     <!-- Facebook -->
     <meta property="og:url" content="current-url-of-site-coming-soon">
-    <meta property="og:title" content="${model.title_s}">
+    <meta property="og:title" content="${model.title_s} | ${model.siteName_s}">
     <meta property="og:description" content="${model.metadescription_t}">
     <meta property="og:type" content="website">
     <meta property="og:image" content="coming-soon/bootstrap-social.png">
