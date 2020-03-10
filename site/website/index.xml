@@ -21,8 +21,12 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-03-09T19:28:32.698Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-09T19:28:32.698Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-10T17:28:00.598Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-10T17:28:00.598Z</lastModifiedDate_dt>
 	<folder-name/>
-	<sections_o item-list="true"/>
+	<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</key>
+	<value>Simple Latin text block</value>
+	<include>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
 </page>
