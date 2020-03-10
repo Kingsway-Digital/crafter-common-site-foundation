@@ -8,7 +8,7 @@
 	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
 	<file-name>index.xml</file-name>
 	<internal-name>Home</internal-name>
-	<title_s>Common Site Foundation</title_s>
+	<title_s>Home</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<metadescription_t>Initial content for metadescription of Common Site Foundation</metadescription_t>
@@ -21,8 +21,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-03-10T18:34:18.500Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-10T18:34:18.500Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-10T19:52:31.093Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-10T19:52:31.093Z</lastModifiedDate_dt>
 	<folder-name/>
 	<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</key>
 	<value>Simple Latin text block</value>
