@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/3-up-adapter</content-type>
+	<display-template>/templates/web/components/adapters/3-up.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0667</objectGroupId>
+	<objectId>066730db-44b6-b70b-f668-569a42ce1d82</objectId>
+	<file-name>066730db-44b6-b70b-f668-569a42ce1d82.xml</file-name>
+	<internal-name>No Title 3-up Adapter</internal-name>
+	<title_s/>
+	<subtitle_s/>
+	<createdDate>2020-03-10T18:28:48.869Z</createdDate>
+	<createdDate_dt>2020-03-10T18:28:48.869Z</createdDate_dt>
+	<lastModifiedDate>2020-03-10T18:28:48.869Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-10T18:28:48.869Z</lastModifiedDate_dt>
+</component>
