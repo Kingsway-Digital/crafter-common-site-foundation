@@ -12,8 +12,8 @@
 	<subtitle_s/>
 	<createdDate>2020-03-10T18:28:48.869Z</createdDate>
 	<createdDate_dt>2020-03-10T18:28:48.869Z</createdDate_dt>
-	<lastModifiedDate>2020-03-10T18:29:51.668Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-10T18:29:51.668Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-10T18:34:28.517Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-10T18:34:28.517Z</lastModifiedDate_dt>
 	<slots_o item-list="true">	<item>	<slot1_o>		<item><key>/site/components/web/modules/text-block/15ccaa8b-29de-da95-604b-b29da25b77d7.xml</key>
 <value>No Header Text Block</value>
 <datasource>component</datasource>
@@ -26,6 +26,11 @@
 <include>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</include>
 <disableFlattening>false</disableFlattening>
 		</item></slot2_o>
-	<slot3_o/>
+	<slot3_o>		<item><key>/site/components/web/modules/text-block/07ddb6b5-7bcf-20e4-d498-c23b536977f0.xml</key>
+<value>Third latin text block</value>
+<datasource>component</datasource>
+<include>/site/components/web/modules/text-block/07ddb6b5-7bcf-20e4-d498-c23b536977f0.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></slot3_o>
 	</item></slots_o>
 </component>
