@@ -10,9 +10,20 @@
 	<folder-name/>
 	<createdDate>2017-10-9T16:52:48.000Z</createdDate>
 	<createdDate_dt>2017-10-9T16:52:48.000Z</createdDate_dt>
-	<lastModifiedDate>2020-03-10T19:57:20.103Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-03-10T19:57:20.103Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-03-10T21:04:32.442Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-10T21:04:32.442Z</lastModifiedDate_dt>
 	<copyright_s>Copyright © 2020 The Kingsway Digital Company Limited</copyright_s>
 	<siteName_s>Common Site Foundation</siteName_s>
 	<author_s>Anthony T. Field</author_s>
+	<favicon180x180_s/>
+	<favicon32x32_s/>
+	<favicon16x16_s/>
+	<favicon_s/>
+	<maskIcon_s/>
+	<msAppLogo70x70_s/>
+	<msAppLogo150x150_s/>
+	<msAppLogo310x150_s/>
+	<msAppLogo310x310_s/>
+	<maskColor_s>#ffffff</maskColor_s>
+	<mSAppTileColor_s>#ffffff</mSAppTileColor_s>
 </component>
