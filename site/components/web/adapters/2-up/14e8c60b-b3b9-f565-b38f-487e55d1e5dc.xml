@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/2-up-adapter</content-type>
+	<display-template>/templates/web/components/adapters/2-up.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>14e8</objectGroupId>
+	<objectId>14e8c60b-b3b9-f565-b38f-487e55d1e5dc</objectId>
+	<internal-name>Latin 2-up Adapter</internal-name>
+	<title_s>At vero eos et accusamus</title_s>
+	<subtitle_s>Et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum</subtitle_s>
+	<file-name>14e8c60b-b3b9-f565-b38f-487e55d1e5dc.xml</file-name>
+	<slots_o item-list="true">	<item>	<slot1_o>		<item><key>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</key>
+<value>Simple Latin text block</value>
+<datasource>component</datasource>
+<include>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></slot1_o>
+	<slot2_o/>
+	</item></slots_o>
+	<createdDate>2020-03-10T18:17:22.767Z</createdDate>
+	<createdDate_dt>2020-03-10T18:17:22.767Z</createdDate_dt>
+	<lastModifiedDate>2020-03-10T18:17:22.767Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-10T18:17:22.767Z</lastModifiedDate_dt>
+</component>
