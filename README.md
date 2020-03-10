@@ -18,10 +18,8 @@ https://kingsway.digital/
 ### The following sections need to be rewritten
 
 ### Known Issues
+- Externalize ms app browserconfig.xml settings
 - Add site defaults:
-  - author default
-  - meta description default
-  - title suffix / site identifier
   - social media info for main site (for social media cards, etc)  
 - Keywords should be calculated in controller
 
