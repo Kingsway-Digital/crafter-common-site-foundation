@@ -110,7 +110,7 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>180x180Favicon_s</id>
+					<id>favicon180x180_s</id>
 					<iceId></iceId>
 					<title>180x180 Favicon</title>
 					<description></description>
@@ -158,7 +158,7 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>32x32Favicon_s</id>
+					<id>favicon32x32_s</id>
 					<iceId></iceId>
 					<title>32x32 Favicon</title>
 					<description>Specify a PNG favicon of the appropriate size.</description>
@@ -206,7 +206,7 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>16x16Favicon_s</id>
+					<id>favicon16x16_s</id>
 					<iceId></iceId>
 					<title>16x16 Favicon</title>
 					<description>Specify a PNG favicon of the appropriate size.</description>
@@ -350,7 +350,7 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>70x70MSAppLogo_s</id>
+					<id>msAppLogo70x70_s</id>
 					<iceId></iceId>
 					<title>70x70 MS App Logo</title>
 					<description>Select the Windows Tile image</description>
@@ -398,7 +398,7 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>150x150MSAppLogo_s</id>
+					<id>msAppLogo150x150_s</id>
 					<iceId></iceId>
 					<title>150x150 MS App Logo</title>
 					<description>Select the Windows Tile image</description>
@@ -446,7 +446,7 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>310x150MSAppLogo_s</id>
+					<id>msAppLogo310x150_s</id>
 					<iceId></iceId>
 					<title>310x150 MS App Logo</title>
 					<description>Select the Windows Tile image</description>
@@ -494,7 +494,7 @@
 				</field>
 				<field>
 					<type>image-picker</type>
-					<id>310x310MSAppLogo_s</id>
+					<id>msAppLogo310x310_s</id>
 					<iceId></iceId>
 					<title>310x310 MS App Logo</title>
 					<description>Select the Windows Tile image</description>
