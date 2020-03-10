@@ -300,6 +300,54 @@
 						</constraint>
 					</constraints>
 				</field>
+				<field>
+					<type>image-picker</type>
+					<id>maskIcon_s</id>
+					<iceId></iceId>
+					<title>Mask Icon</title>
+					<description>Enter the browser mask icon (Safari)</description>
+					<defaultValue></defaultValue>
+					<help>&lt;p&gt;Specify a square SVG image, with a transparent (or simply: no) background, and all vectors 100% black.&lt;/p&gt;</help>
+					<properties>
+						<property>
+							<name>width</name>
+							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
+							<type>range</type>
+						</property>
+						<property>
+							<name>height</name>
+							<value>{ &quot;exact&quot;:&quot;&quot;, &quot;min&quot;:&quot;&quot;, &quot;max&quot;:&quot;&quot; }</value>
+							<type>range</type>
+						</property>
+						<property>
+							<name>thumbnailWidth</name>
+							<value></value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>thumbnailHeight</name>
+							<value></value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>imageManager</name>
+							<value>favicons</value>
+							<type>datasource:image</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[]]></value>
+							<type>boolean</type>
+						</constraint>
+					</constraints>
+				</field>
 			</fields>
 		</section>
 		<section>
