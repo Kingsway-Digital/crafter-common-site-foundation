@@ -63,21 +63,64 @@
 		<section>
 			<title>General Site Info</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
+				<field>
+					<type>input</type>
+					<id>siteName_s</id>
+					<iceId></iceId>
+					<title>Site Name</title>
+					<description></description>
+					<defaultValue></defaultValue>
+					<help></help>
+					<properties>
+						<property>
+							<name>size</name>
+							<value>80</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>maxlength</name>
+							<value>128</value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>readonly</name>
+							<value></value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>tokenize</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+					</properties>
+					<constraints>
+						<constraint>
+							<name>required</name>
+							<value><![CDATA[true]]></value>
+							<type>boolean</type>
+						</constraint>
+						<constraint>
+							<name>pattern</name>
+							<value><![CDATA[]]></value>
+							<type>string</type>
+						</constraint>
+					</constraints>
+				</field>
 			</fields>
 		</section>
 		<section>
 			<title>Header Defaults</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 			</fields>
 		</section>
 		<section>
 			<title>Footer Defaults</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>input</type>
@@ -95,7 +138,7 @@
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>512</value>
+							<value>128</value>
 							<type>int</type>
 						</property>
 						<property>
