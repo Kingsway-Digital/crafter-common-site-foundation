@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/text-block</content-type>
+	<display-template>/templates/web/components/modules/textblock.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>07dd</objectGroupId>
+	<objectId>07ddb6b5-7bcf-20e4-d498-c23b536977f0</objectId>
+	<file-name>07ddb6b5-7bcf-20e4-d498-c23b536977f0.xml</file-name>
+	<internal-name>Third latin text block</internal-name>
+	<title_s>de Finibus Bonorum et Malorum</title_s>
+	<subtitle_s/>
+	<body_html>&lt;p&gt;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&lt;/p&gt;</body_html>
+	<createdDate>2020-03-10T18:33:32.442Z</createdDate>
+	<createdDate_dt>2020-03-10T18:33:32.442Z</createdDate_dt>
+	<lastModifiedDate>2020-03-10T18:33:32.442Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-10T18:33:32.442Z</lastModifiedDate_dt>
+</component>
