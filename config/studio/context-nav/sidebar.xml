@@ -130,7 +130,7 @@
                                     <params>
                                         <label>Reusable Content</label>
                                         <path>/site/components/content</path>
-                                        <showRootItem>true</showRootItem>
+                                        <showRootItem>false</showRootItem>
                                     </params>
                                 </modulehook>
                                 <modulehook>
@@ -138,7 +138,7 @@
                                     <params>
                                         <label>Web Components</label>
                                         <path>/site/components/web</path>
-                                        <showRootItem>true</showRootItem>
+                                        <showRootItem>false</showRootItem>
                                     </params>
                                 </modulehook>
 
@@ -148,7 +148,7 @@
                                     <params>
                                         <label>Static Content Assets</label>
                                         <path>/static-assets/content</path>
-                                        <showRootItem>true</showRootItem>
+                                        <showRootItem>false</showRootItem>
                                         <onClick>none</onClick>
                                     </params>
                                 </modulehook>
@@ -174,7 +174,7 @@
                                     <params>
                                         <label>Templates</label>
                                         <path>/templates</path>
-                                        <showRootItem>true</showRootItem>
+                                        <showRootItem>false</showRootItem>
                                         <onClick>none</onClick>
                                         <roles>
                                             <role>admin</role>
