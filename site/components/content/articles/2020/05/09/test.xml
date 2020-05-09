@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/article</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c99c</objectGroupId>
+	<objectId>c99c45a6-dd23-0137-c01d-04b0dedbc7eb</objectId>
+	<file-name>test.xml</file-name>
+	<folder-name/>
+	<internal-name>Test Blog</internal-name>
+	<title_s/>
+	<subtitle_s/>
+	<snippet_t/>
+	<author_o item-list="true"/>
+	<body_html/>
+	<createdDate>2020-05-09T17:48:47.604Z</createdDate>
+	<createdDate_dt>2020-05-09T17:48:47.604Z</createdDate_dt>
+	<lastModifiedDate>2020-05-09T17:48:47.604Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-09T17:48:47.604Z</lastModifiedDate_dt>
+	<storyDate_dt>2020-05-09T17:48:47.000Z</storyDate_dt>
+	<storyDate_dt_tz>EST5EDT</storyDate_dt_tz>
+</component>
