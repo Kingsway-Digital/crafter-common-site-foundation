@@ -299,8 +299,8 @@
     <datasources>
         <datasource>
             <type>shared-content</type>
-            <id>component</id>
-            <title>Component</title>
+            <id>webComponent</id>
+            <title>Web Component</title>
             <interface>item</interface>
             <properties>
                 <property>
@@ -315,17 +315,55 @@
                 </property>
                 <property>
                     <name>enableSearchExisting</name>
+                    <value>false</value>
+                    <type>undefined</type>
+                </property>
+                <property>
+                    <name>repoPath</name>
+                    <value>/site/components/web</value>
+                    <type>undefined</type>
+                </property>
+                <property>
+                    <name>browsePath</name>
+                    <value>/site/components/web</value>
+                    <type>undefined</type>
+                </property>
+                <property>
+                    <name>type</name>
+                    <value></value>
+                    <type>undefined</type>
+                </property>
+            </properties>
+        </datasource>
+        <datasource>
+            <type>shared-content</type>
+            <id>sharedComponent</id>
+            <title>Shared Component</title>
+            <interface>item</interface>
+            <properties>
+                <property>
+                    <name>enableCreateNew</name>
+                    <value>false</value>
+                    <type>undefined</type>
+                </property>
+                <property>
+                    <name>enableBrowseExisting</name>
+                    <value>true</value>
+                    <type>undefined</type>
+                </property>
+                <property>
+                    <name>enableSearchExisting</name>
                     <value>true</value>
                     <type>undefined</type>
                 </property>
                 <property>
                     <name>repoPath</name>
-                    <value>/site/components/</value>
+                    <value>/site/components/content</value>
                     <type>undefined</type>
                 </property>
                 <property>
                     <name>browsePath</name>
-                    <value>/site/components/</value>
+                    <value>/site/components/content</value>
                     <type>undefined</type>
                 </property>
                 <property>
