@@ -138,10 +138,25 @@
                                 <modulehook>
                                     <name>wcm-assets-folder</name>                                    
                                     <params>
+                                        <label>Static Content Assets</label>
+                                        <path>/static-assets/content</path>
+                                        <showRootItem>true</showRootItem>
+                                        <onClick>none</onClick>
+                                    </params>
+                                </modulehook>
+
+                                <!-- Static Assets -->
+                                <modulehook>
+                                    <name>wcm-assets-folder</name>                                    
+                                    <params>
                                         <label>Static Assets</label>
                                         <path>/static-assets</path>
                                         <showRootItem>true</showRootItem>
                                         <onClick>none</onClick>
+                                        <roles>
+                                            <role>admin</role>
+                                            <role>developer</role>
+                                        </roles>
                                     </params>
                                 </modulehook>
 
@@ -153,6 +168,10 @@
                                         <path>/templates</path>
                                         <showRootItem>true</showRootItem>
                                         <onClick>none</onClick>
+                                        <roles>
+                                            <role>admin</role>
+                                            <role>developer</role>
+                                        </roles>
                                     </params>
                                 </modulehook>
 
@@ -164,6 +183,10 @@
                                         <path>/scripts</path>
                                         <showRootItem>true</showRootItem>
                                         <onClick>none</onClick>
+                                        <roles>
+                                            <role>admin</role>
+                                            <role>developer</role>
+                                        </roles>
                                     </params>
                                 </modulehook>
 
