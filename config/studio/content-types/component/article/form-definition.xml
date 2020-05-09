@@ -41,7 +41,7 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>50</value>
+							<value>24</value>
 							<type>int</type>
 						</property>
 						<property>
@@ -69,7 +69,7 @@
 					<properties>
 						<property>
 							<name>size</name>
-							<value>50</value>
+							<value>24</value>
 							<type>int</type>
 						</property>
 						<property>
@@ -463,7 +463,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value>/static-assets/content/article-images</value>
+							<value>/static-assets/content/images/article-images</value>
 								<type>undefined</type>
 						</property>
 						<property>
