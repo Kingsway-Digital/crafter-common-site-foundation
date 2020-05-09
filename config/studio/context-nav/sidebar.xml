@@ -118,6 +118,14 @@
 
                                 <!-- Components -->
                                 <modulehook>
+                                    <name>wcm-root-folder</name>
+                                    <params>
+                                        <label>Taxonomy</label>
+                                        <path>/site/components/taxonomy</path>
+                                        <showRootItem>true</showRootItem>
+                                    </params>
+                                </modulehook>
+                                <modulehook>
                                     <name>wcm-root-folder</name>                                    
                                     <params>
                                         <label>Reusable Content</label>
