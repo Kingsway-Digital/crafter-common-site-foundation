@@ -384,6 +384,32 @@
     </sections>
     <datasources>
         <datasource>
+            <type>embedded-content</type>
+            <id>2-up Adapter</id>
+            <title>2-up Adapter</title>
+            <interface>item</interface>
+            <properties>
+                <property>
+                    <name>contentType</name>
+                    <value>/component/2-up-adapter</value>
+                    <type>undefined</type>
+                </property>
+            </properties>
+        </datasource>
+        <datasource>
+            <type>embedded-content</type>
+            <id>3-upAdapter</id>
+            <title>3-up Adapter</title>
+            <interface>item</interface>
+            <properties>
+                <property>
+                    <name>contentType</name>
+                    <value>/component/3-up-adapter</value>
+                    <type>undefined</type>
+                </property>
+            </properties>
+        </datasource>
+        <datasource>
             <type>shared-content</type>
             <id>webComponent</id>
             <title>Web Component</title>
@@ -417,32 +443,6 @@
                 <property>
                     <name>type</name>
                     <value></value>
-                    <type>undefined</type>
-                </property>
-            </properties>
-        </datasource>
-        <datasource>
-            <type>embedded-content</type>
-            <id>2-up Adapter</id>
-            <title>2-up Adapter</title>
-            <interface>item</interface>
-            <properties>
-                <property>
-                    <name>contentType</name>
-                    <value>/component/2-up-adapter</value>
-                    <type>undefined</type>
-                </property>
-            </properties>
-        </datasource>
-        <datasource>
-            <type>embedded-content</type>
-            <id>3-upAdapter</id>
-            <title>3-up Adapter</title>
-            <interface>item</interface>
-            <properties>
-                <property>
-                    <name>contentType</name>
-                    <value>/component/3-up-adapter</value>
                     <type>undefined</type>
                 </property>
             </properties>
