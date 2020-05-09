@@ -122,7 +122,7 @@
                                     <params>
                                         <label>Taxonomy</label>
                                         <path>/site/components/taxonomy</path>
-                                        <showRootItem>true</showRootItem>
+                                        <showRootItem>false</showRootItem>
                                     </params>
                                 </modulehook>
                                 <modulehook>
