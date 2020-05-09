@@ -1,4 +1,4 @@
-<content-type name="/component/3upadapter" is-wcm-type="true">
+<content-type name="/component/3-up-adapter" is-wcm-type="true">
 	<label>3-up Adapter</label>
 	<form>/component/3-up-adapter</form>
 	<form-path>simple</form-path>
