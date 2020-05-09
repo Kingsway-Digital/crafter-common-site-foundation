@@ -5,7 +5,7 @@
     <content-type>/component/2-up-adapter</content-type>
     <imageThumbnail>undefined</imageThumbnail>
     <quickCreate>true</quickCreate>
-	<quickCreatePath>/site/components/web/adapters/2-up</quickCreatePath>
+    <quickCreatePath>/site/components/web/adapters/2-up</quickCreatePath>
     <properties>
         <property>
             <name>display-template</name>
