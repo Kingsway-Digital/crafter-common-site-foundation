@@ -1,4 +1,4 @@
-<content-type name="/page/landingpage" is-wcm-type="true">
+<content-type name="/page/landing-page" is-wcm-type="true">
 	<label>Landing Page</label>
 	<form>/page/landing-page</form>
 	<form-path>simple</form-path>
