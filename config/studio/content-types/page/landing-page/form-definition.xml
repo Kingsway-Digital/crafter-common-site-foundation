@@ -394,7 +394,7 @@
 						</property>
 						<property>
 							<name>enableSearchExisting</name>
-							<value>true</value>
+							<value>false</value>
 								<type>undefined</type>
 						</property>
 						<property>
