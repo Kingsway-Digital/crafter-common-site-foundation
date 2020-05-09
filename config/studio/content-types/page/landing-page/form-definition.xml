@@ -327,7 +327,7 @@
 			<fields>
 				<field>
 					<type>node-selector</type>
-					<id>sections_o</id>
+					<id>rows_o</id>
 					<iceId></iceId>
 					<title>Sections</title>
 					<description>Enter the main sections for the landing page.</description>
@@ -422,7 +422,7 @@
 					<properties>
 						<property>
 							<name>contentType</name>
-							<value>/component/adapter</value>
+							<value>/component/2-up-adapter</value>
 								<type>undefined</type>
 						</property>
 					</properties>
