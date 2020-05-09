@@ -327,7 +327,7 @@
 			<fields>
 				<field>
 					<type>node-selector</type>
-					<id>rows_o</id>
+					<id>sections_o</id>
 					<iceId></iceId>
 					<title>Sections</title>
 					<description>Enter the main sections for the landing page.</description>
@@ -346,7 +346,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value>2-up Adapters,3-upAdapters</value>
+							<value>2-up Adapter,3-upAdapter,webComponent,sharedComponent</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -378,8 +378,8 @@
 	</sections>
 	<datasources>				<datasource>
 					<type>shared-content</type>
-					<id>sectionComponents</id>
-					<title>Section Components</title>
+					<id>webComponent</id>
+					<title>Web Component</title>
 					<interface>item</interface>
 					<properties>
 						<property>
@@ -416,8 +416,8 @@
 				</datasource>
 				<datasource>
 					<type>embedded-content</type>
-					<id>2-up Adapters</id>
-					<title>2-up Adapters</title>
+					<id>2-up Adapter</id>
+					<title>2-up Adapter</title>
 					<interface>item</interface>
 					<properties>
 						<property>
@@ -429,13 +429,51 @@
 				</datasource>
 				<datasource>
 					<type>embedded-content</type>
-					<id>3-upAdapters</id>
-					<title>3-up Adapters</title>
+					<id>3-upAdapter</id>
+					<title>3-up Adapter</title>
 					<interface>item</interface>
 					<properties>
 						<property>
 							<name>contentType</name>
 							<value>/component/3-up-adapter</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+				<datasource>
+					<type>shared-content</type>
+					<id>sharedComponent</id>
+					<title>Shared Component</title>
+					<interface>item</interface>
+					<properties>
+						<property>
+							<name>enableCreateNew</name>
+							<value>false</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>enableBrowseExisting</name>
+							<value>true</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>enableSearchExisting</name>
+							<value>true</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>repoPath</name>
+							<value>/site/components/content</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>browsePath</name>
+							<value>/site/components/content</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>type</name>
+							<value></value>
 								<type>undefined</type>
 						</property>
 					</properties>
