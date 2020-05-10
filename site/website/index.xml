@@ -21,8 +21,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-05-10T18:53:28.901Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-05-10T18:53:28.901Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-05-10T18:54:25.286Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-10T18:54:25.286Z</lastModifiedDate_dt>
 	<folder-name/>
 	<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</key>
 	<value>Simple Latin text block</value>
@@ -43,12 +43,12 @@
 	<objectId>e2cd1ac5-e51c-cd0a-9430-f545302b76f1</objectId>
 	<file-name>e2cd1ac5-e51c-cd0a-9430-f545302b76f1.xml</file-name>
 	<internal-name>Embedded 2-up adapter</internal-name>
-	<title_s>Embedded 2-up adapter</title_s>
+	<title_s>At vero eos et accusamus</title_s>
 	<subtitle_s/>
 	<createdDate>2020-05-10T18:52:16.665Z</createdDate>
 	<createdDate_dt>2020-05-10T18:52:16.665Z</createdDate_dt>
-	<lastModifiedDate>2020-05-10T18:53:36.207Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-05-10T18:53:36.207Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-05-10T18:54:28.136Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-10T18:54:28.136Z</lastModifiedDate_dt>
 	<slots_o item-list="true">	<item>	<slot1_o item-list="true">	<item datasource="webComponent">	<key>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</key>
 	<value>Simple Latin text block</value>
 	<include>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</include>
