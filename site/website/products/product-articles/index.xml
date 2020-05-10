@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landing-page</content-type>
+	<display-template>/templates/web/pages/landingpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c740</objectGroupId>
+	<objectId>c740465a-0212-6ed2-f780-7ae06d7a1afc</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>product-articles</folder-name>
+	<internal-name>Product Articles</internal-name>
+	<linkText_s>Product Articles</linkText_s>
+	<title_s>Product Articles</title_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>0</orderDefault_f>
+	<metadescription_t/>
+	<sections_o item-list="true">	<item datasource="sharedComponent">	<key>/site/components/content/articles/2020/05/09/test.xml</key>
+	<value>Test Blog</value>
+	<include>/site/components/content/articles/2020/05/09/test.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
+	<createdDate>2020-05-10T19:20:25.834Z</createdDate>
+	<createdDate_dt>2020-05-10T19:20:25.834Z</createdDate_dt>
+	<lastModifiedDate>2020-05-10T19:20:25.834Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-10T19:20:25.834Z</lastModifiedDate_dt>
+</page>
