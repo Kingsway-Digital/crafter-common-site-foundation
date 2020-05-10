@@ -1,4 +1,4 @@
-<content-type name="/component/pressrelease" is-wcm-type="true">
+<content-type name="/component/press-release" is-wcm-type="true">
 	<label>Press Release</label>
 	<form>/component/press-release</form>
 	<form-path>simple</form-path>
