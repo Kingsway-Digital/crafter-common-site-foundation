@@ -145,7 +145,7 @@
 						</property>
 						<property>
 							<name>maxlength</name>
-							<value>128</value>
+							<value>256</value>
 							<type>int</type>
 						</property>
 						<property>
