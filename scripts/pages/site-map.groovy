@@ -23,7 +23,7 @@ if(siteDir) {
             def dirName = dir.getStoreName()
             def dirItem = siteItemService.getSiteItem("/site/website/${dirName}/index.xml")
             if (dirItem != null) {
-                def dirDisplayName = dirItem.queryValue('internal-name')
+                def dirDisplayName = dirItem.queryValue('linkText_s')
                    topNavItems.put(dirName, dirDisplayName)
             }
    }
