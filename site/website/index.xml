@@ -21,8 +21,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-05-10T18:55:53.258Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-05-10T18:55:53.258Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-05-10T18:56:35.867Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-10T18:56:35.867Z</lastModifiedDate_dt>
 	<folder-name/>
 	<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</key>
 	<value>Simple Latin text block</value>
@@ -60,10 +60,6 @@
 	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/text-block/15ccaa8b-29de-da95-604b-b29da25b77d7.xml</key>
 	<value>No Header Text Block</value>
 	<include>/site/components/web/modules/text-block/15ccaa8b-29de-da95-604b-b29da25b77d7.xml</include>
-	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/3-up/066730db-44b6-b70b-f668-569a42ce1d82.xml</key>
-	<value>No Title 3-up Adapter</value>
-	<include>/site/components/web/adapters/3-up/066730db-44b6-b70b-f668-569a42ce1d82.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="3-upAdapter" inline="true">	<key>aa0c405b-c730-9c61-8463-61b3d3badb2f</key>
 	<value>Embedded 3-up Adapter</value>
