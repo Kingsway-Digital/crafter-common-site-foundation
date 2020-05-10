@@ -1,4 +1,4 @@
-<content-type name="/component/infocards" is-wcm-type="true">
+<content-type name="/component/info-cards" is-wcm-type="true">
 	<label>Info Card Set</label>
 	<form>/component/info-cards</form>
 	<form-path>simple</form-path>
