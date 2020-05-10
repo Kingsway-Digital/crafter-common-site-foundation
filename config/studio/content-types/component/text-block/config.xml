@@ -1,4 +1,4 @@
-<content-type name="/component/textblock" is-wcm-type="true">
+<content-type name="/component/text-block" is-wcm-type="true">
 	<label>Text Block</label>
 	<form>/component/text-block</form>
 	<form-path>simple</form-path>
