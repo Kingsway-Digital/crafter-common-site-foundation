@@ -1,4 +1,4 @@
-<content-type name="/component/imagehero" is-wcm-type="true">
+<content-type name="/component/image-hero" is-wcm-type="true">
 	<label>Image Hero</label>
 	<form>/component/image-hero</form>
 	<form-path>simple</form-path>
