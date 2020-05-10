@@ -8,16 +8,16 @@
 </#macro>
 
 <#macro renderNavItemWithSubItems navItem>
-    <li>
-        <span class="opener"><a href="${navItem.url}">${navItem.label}</a></span>
-        <ul>
+    <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="${navItem.url}" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">${navItem.label}</a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <#nested>
-        </ul>
+        </div>
     </li>
 </#macro>
 
 <#macro renderNavSubItem navItem>
-    <@renderNavItem navItem/>
+    <a class="dropdown-item" href="${navItem.url}">${navItem.label}</a>
 </#macro>
 
 <#macro renderNavSubItemWithSubItems navItem>
