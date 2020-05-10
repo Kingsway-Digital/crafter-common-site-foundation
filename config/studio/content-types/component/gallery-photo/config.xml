@@ -1,4 +1,4 @@
-<content-type name="/component/galleryphoto" is-wcm-type="true">
+<content-type name="/component/gallery-photo" is-wcm-type="true">
 	<label>Gallery Photo</label>
 	<form>/component/gallery-photo</form>
 	<form-path>simple</form-path>
