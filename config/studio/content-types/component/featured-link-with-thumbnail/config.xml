@@ -1,4 +1,4 @@
-<content-type name="/component/featuredlinkwiththumbnail" is-wcm-type="true">
+<content-type name="/component/featured-link-with-thumbnail" is-wcm-type="true">
 	<label>Featured Link with Thumbnail</label>
 	<form>/component/featured-link-with-thumbnail</form>
 	<form-path>simple</form-path>
