@@ -1,3 +1,4 @@
+<#-- Use the OOTB navigation helper from Crafter -->
 <#import "/templates/web/navigation2/navigation.ftl" as nav/>
 <nav id="menu">
     <header class="major">
