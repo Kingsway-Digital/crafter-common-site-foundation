@@ -1,6 +1,6 @@
 <#-- Override template for OOTB navigation helper template -->
 <#macro renderNavItem navItem>
-    <li>x<a href="${navItem.url}">${navItem.label}</a></li>
+    <li><a href="${navItem.url}">${navItem.label}</a></li>
 </#macro>
 
 <#macro renderRootItem navItem>
