@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landing-page</content-type>
+	<display-template>/templates/web/pages/landingpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1f3e</objectGroupId>
+	<objectId>1f3ec897-96c0-db86-19b2-ba07715c0e4e</objectId>
+	<sections_o item-list="true">	<item datasource="webComponent">	<key>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</key>
+	<value>Simple Latin text block</value>
+	<include>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>about</folder-name>
+	<internal-name>About</internal-name>
+	<linkText_s>About</linkText_s>
+	<title_s>About</title_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>1000</orderDefault_f>
+	<metadescription_t/>
+	<createdDate>2020-05-10T18:57:10.880Z</createdDate>
+	<createdDate_dt>2020-05-10T18:57:10.880Z</createdDate_dt>
+	<lastModifiedDate>2020-05-10T18:57:10.880Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-10T18:57:10.880Z</lastModifiedDate_dt>
+</page>
