@@ -14,13 +14,13 @@
 	<placeInNav>true</placeInNav>
 	<orderDefault_f>0</orderDefault_f>
 	<metadescription_t/>
-	<sections_o item-list="true">	<item datasource="sharedComponent">	<key>/site/components/content/articles/2020/05/09/test.xml</key>
-	<value>Test Blog</value>
-	<include>/site/components/content/articles/2020/05/09/test.xml</include>
+	<sections_o item-list="true">	<item datasource="webComponent">	<key>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</key>
+	<value>Simple Latin text block</value>
+	<include>/site/components/web/modules/text-block/b863e140-0a4c-8c88-586a-0e58ac6cf48b.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></sections_o>
 	<createdDate>2020-05-10T19:20:25.834Z</createdDate>
 	<createdDate_dt>2020-05-10T19:20:25.834Z</createdDate_dt>
-	<lastModifiedDate>2020-05-10T19:20:25.834Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-05-10T19:20:25.834Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-05-10T19:23:42.579Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-10T19:23:42.579Z</lastModifiedDate_dt>
 </page>
