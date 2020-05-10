@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landing-page</content-type>
+	<display-template>/templates/web/pages/landingpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6fa7</objectGroupId>
+	<objectId>6fa70e1d-e621-0375-799b-259e1f33a2fe</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>more-information</folder-name>
+	<internal-name>More Product Information</internal-name>
+	<linkText_s>More Info</linkText_s>
+	<title_s>More Product Information</title_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>1000</orderDefault_f>
+	<metadescription_t/>
+	<sections_o item-list="true">	<item datasource="webComponent">	<key>/site/components/web/modules/text-block/07ddb6b5-7bcf-20e4-d498-c23b536977f0.xml</key>
+	<value>Third latin text block</value>
+	<include>/site/components/web/modules/text-block/07ddb6b5-7bcf-20e4-d498-c23b536977f0.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
+	<createdDate>2020-05-10T19:24:17.052Z</createdDate>
+	<createdDate_dt>2020-05-10T19:24:17.052Z</createdDate_dt>
+	<lastModifiedDate>2020-05-10T19:24:17.052Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-10T19:24:17.052Z</lastModifiedDate_dt>
+</page>
