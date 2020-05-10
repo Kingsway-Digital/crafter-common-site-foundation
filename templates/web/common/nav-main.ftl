@@ -2,9 +2,11 @@
 <#import "/templates/web/navigation2/navigation.ftl" as nav/>
 <nav class="navbar navbar-expand-lg navbar-light bg-light" id="menu">
     <a class="navbar-brand" href="#">SITE NAME HERE....</a>
-    <ul>
-        <@nav.renderNavigation "/site/website" 1 true/>
-    </ul>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <@nav.renderNavigation "/site/website" 1 true/>
+        </ul>
+    </div>
 </nav>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">Navbar</a>
