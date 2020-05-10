@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landing-page</content-type>
+	<display-template>/templates/web/pages/landingpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cc09</objectGroupId>
+	<objectId>cc0934c8-1077-0643-4067-63430349de17</objectId>
+	<internal-name>Contact</internal-name>
+	<linkText_s>Contact</linkText_s>
+	<title_s>Contact</title_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>3000</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>contact</folder-name>
+	<metadescription_t/>
+	<sections_o item-list="true">	<item datasource="webComponent">	<key>/site/components/web/modules/text-block/07ddb6b5-7bcf-20e4-d498-c23b536977f0.xml</key>
+	<value>Third latin text block</value>
+	<include>/site/components/web/modules/text-block/07ddb6b5-7bcf-20e4-d498-c23b536977f0.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
+	<createdDate>2020-05-10T19:00:47.125Z</createdDate>
+	<createdDate_dt>2020-05-10T19:00:47.125Z</createdDate_dt>
+	<lastModifiedDate>2020-05-10T19:00:47.125Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-10T19:00:47.125Z</lastModifiedDate_dt>
+</page>
