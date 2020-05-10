@@ -22,7 +22,7 @@ https://kingsway.digital/
 - Add site defaults:
   - social media info for main site (for social media cards, etc)  
 - Keywords should be calculated in controller
-
+- Auto-generated nav bar doesn't use linktext_s. Need to setDefaultItemConverter for the nav helper.
 ### Planned Future Features
 - Coming soon
 
